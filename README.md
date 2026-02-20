@@ -34,5 +34,13 @@ A modular, high-performance Retrieval-Augmented Generation (RAG) system built wi
    ```bash
    streamlit run app.py
    ```
+## sample output
+**Empty UI**
+<img width="1366" height="768" alt="Screenshot 2026-02-21 012501" src="https://github.com/user-attachments/assets/2715b25b-48d3-4378-8854-c483113eb069" />
 
+**Sample input & Output**
+<img width="1366" height="768" alt="Screenshot 2026-02-21 012739" src="https://github.com/user-attachments/assets/30a6b7f7-eb9f-4760-8226-1d1fd97b6e2a" />
+
+**Source indication**
+<img width="1366" height="768" alt="Screenshot 2026-02-21 012833" src="https://github.com/user-attachments/assets/c0a11236-332b-4ed6-9326-70cffe7d4411" />
 
